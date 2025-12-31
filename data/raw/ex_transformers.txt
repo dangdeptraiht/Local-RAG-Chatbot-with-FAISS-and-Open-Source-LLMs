@@ -1,0 +1,10 @@
+Transformers are deep learning models introduced in the paper
+"Attention Is All You Need". They rely on self-attention mechanisms
+to process input sequences in parallel.
+
+The Hugging Face Transformers library provides thousands of
+pretrained models for tasks such as text classification,
+question answering, and text generation.
+
+Pipelines provide a high-level API to quickly perform inference
+with a few lines of code.
